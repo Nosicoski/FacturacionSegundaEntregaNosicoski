@@ -24,6 +24,7 @@ public class InvoiceDetail {
     @JoinColumn(name = "invoice_id", nullable = false)
     private Invoice invoice;
 
+    @NotNull(message = "El producto es obligatorio")
     @ManyToOne
     @JoinColumn(name = "product_id", nullable = false)
     private Product product;
