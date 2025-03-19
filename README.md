@@ -68,7 +68,7 @@ Aquí encontrarás todos los **endpoints disponibles**, sus **métodos HTTP**, p
 
 ## 📩 Contacto
 Si tienes alguna consulta o sugerencia, puedes contactarme a través de:
-📧 **Email:** juanmanuel.nosicoski@example.com  
+📧 **Email:** juanmanuel.nosicoski@hotmail.com  
 🐙 **GitHub:** [https://github.com/juanmanuelnosicoski](https://github.com/juanmanuelnosicoski)
 
 ---
